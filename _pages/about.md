@@ -39,7 +39,7 @@ My research focuses on **Federated Learning and Continual Learning**.
 
 # 👏 Miscellaneous
 
-- I am an avid music and band enthusiast. I enjoy exploring various musical styles, with a particular love for alternative rock, city pop, and blues. Music is an integral part of my life that fuels my creativity and inspires my work.
+- I am an avid music and band enthusiast. I enjoy exploring various musical styles, with a particular love for shoegaze, city pop, and blues. Music is an integral part of my life that fuels my creativity and inspires my work.
 - My girlfriend and I have two adorable cats named Fatbo (肥波) and Summer. They are both funny and have brought a lot of fun to our lives!
 
 <img src="../images/feibo.png" alt="feibo" style="zoom: 8.17%;" /><img src="../images/summer.png" alt="summer" style="zoom: 10%;" /><img src="../images/both.png" alt="both" style="zoom: 7.3%;" />
