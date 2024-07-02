@@ -38,6 +38,6 @@ redirect_from:
 # 👏 Miscellaneous
 
 - I am an avid music and band enthusiast. I enjoy exploring various musical styles, with a particular love for alternative rock, city pop, and blues. Music is an integral part of my life that fuels my creativity and inspires my work.
-- My gf and I have three cats together, they are very adorable and have brought a lot of fun to my lives!
+- My girlfriend and I have two adorable cats named Fatbo (肥波) and Summer. They are both funny and have brought a lot of fun to our lives!
 
 <img src="../images/feibo.png" alt="feibo" style="zoom: 22.48%;" /><img src="../images/summer.png" alt="feibo" style="zoom: 25%;" />
