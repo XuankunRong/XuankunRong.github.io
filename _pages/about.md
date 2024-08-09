@@ -22,6 +22,7 @@ My research focuses on **Federated Learning and Continual Learning**.
 
 # 🔥 News
 
+- *2024.07*: We entered the **national competition** in the 17th National College Student Information Security Competition.
 - *2024.05*: Won **First Prize** in the 17th China Undergraduate Computer Design Competition of Middle South Division (Award Rate: 3% division-wide).
 
 # 📝 Publications
