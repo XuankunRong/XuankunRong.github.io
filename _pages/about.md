@@ -16,7 +16,7 @@ redirect_from:
 
 # 🧐 About Me
 
-👋Hi there! My name is Xuankun Rong（容旋坤）, I'm currently a junior undergraduate student at the [School of Cyber Science and Engineering](https://cse.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/).
+👋 Hi there! My name is Xuankun Rong（容旋坤）, I'm currently a junior undergraduate student at the [School of Cyber Science and Engineering](https://cse.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/).
 
 My research focuses on **Federated Learning and Continual Learning**.
 
@@ -24,7 +24,7 @@ My research focuses on **Federated Learning and Continual Learning**.
 
 - *2024.08*: Awarded **First Prize** in the 17th National College Student Information Security Contest, along with the **Most Innovative and Entrepreneurial Award** (Top 0.1% nation-wide). 👏
 - *2024.07*: We advanced to the **National Finals** of the 17th National College Student Information Security Contest and are looking forward to achieving excellent results. 💪
-- *2024.05*: Awarded **First Prize** in the 17th China Undergraduate Computer Design Competition, Middle South Division (Top 3% division-wide). 👏
+- *2024.05*: Awarded **First Prize** in the 17th China Undergraduate Computer Design Competition, Middle South Division (Top 3% division-wide).
 
 # 📝 Publications
 
