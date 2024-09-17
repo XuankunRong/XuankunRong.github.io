@@ -18,7 +18,7 @@ redirect_from:
 
 👋 Hi there! My name is Xuankun Rong（容旋坤）, I'm currently a junior undergraduate student at the [School of Cyber Science and Engineering](https://cse.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/).
 
-My research focuses on **Federated Learning and Continual Learning**.
+My research focuses on **Federated Learning, Continual Learning and Mutimodal Large Language Models**.
 
 # 🔥 News
 
