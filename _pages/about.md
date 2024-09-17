@@ -16,7 +16,7 @@ redirect_from:
 
 # 🧐 About Me
 
-👋 Hi there! My name is Xuankun Rong（容旋坤）, I'm currently a junior undergraduate student at the [School of Cyber Science and Engineering](https://cse.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/). I will begin my Ph.D. studies at [School of Computer Science](https://cs.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/) in 2025 under the supervision of Professor [Mang Ye](https://marswhu.github.io/).
+👋 Hi there! My name is Xuankun Rong（容旋坤）, I'm currently a senior undergraduate student at the [School of Cyber Science and Engineering](https://cse.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/). I will begin my Ph.D. studies at [School of Computer Science](https://cs.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/) in 2025 under the supervision of Professor [Mang Ye](https://marswhu.github.io/).
 
 My research focuses on **Federated Learning, Continual Learning and Mutimodal Large Language Models**.
 
