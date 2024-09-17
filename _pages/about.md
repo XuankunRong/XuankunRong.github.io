@@ -22,7 +22,7 @@ My research focuses on **Federated Learning, Continual Learning and Mutimodal La
 
 # 🔥 News
 
-- *2024.09*: Won **Nomination Award** of College Students' Innovation and Entrepreneurship works in 2024 China Network Security Innovation and Entrepreneurship Competition
+- *2024.09*: Won **Nomination Award** of College Students' Innovation and Entrepreneurship works in 2024 China Network Security Innovation and Entrepreneurship Competition.
 - *2024.08*: Won **First Prize** in the 17th National College Student Information Security Contest, along with the **Most Innovative and Entrepreneurial Award** (Top 0.1% nation-wide). 👏
 - *2024.07*: We advanced to the **National Finals** of the 17th National College Student Information Security Contest and are looking forward to achieving excellent results. 💪
 - *2024.05*: Won **First Prize** in the 17th China Undergraduate Computer Design Competition, Middle South Division (Top 3% division-wide).
@@ -33,6 +33,7 @@ My research focuses on **Federated Learning, Continual Learning and Mutimodal La
 
 # 🎖 Honors and Awards
 
+- *2024.09*: **Nominated Award** for college students' innovative and entrepreneurial works in 2024 China Cyber Security Innovation and Entrepreneurship Competition.
 - *2024.08*: **First Prize** in the 17th National College Student Information Security Contest, along with the **Most Innovative and Entrepreneurial Award** (Top 0.1% nation-wide).
 - *2024.05*: **First Prize** in the 17th China Undergraduate Computer Design Competition of Middle South Division (Award Rate: 3% division-wide)
 
