@@ -35,7 +35,7 @@ My research focuses on **Federated Learning, Continual Learning and Mutimodal La
   
     **Xuankun Rong**<sup>&dagger;</sup>, Jianshu Zhang<sup>&dagger;</sup>, Kun He, Mang Ye<sup>*</sup> 
 
-[[arXiv]()] [[code]()]
+    [[arXiv]()] [[code]()]
 
 # 🎖 Honors and Awards
 
