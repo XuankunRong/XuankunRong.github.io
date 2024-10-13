@@ -61,4 +61,4 @@ My research focuses on **Federated Learning, Continual Learning and Mutimodal La
 
 <img src="../images/feibo.png" alt="feibo" style="zoom: 8.17%;" /><img src="../images/summer.png" alt="summer" style="zoom: 10%;" /><img src="../images/both.png" alt="both" style="zoom: 7.3%;" />
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=a&t=n&d=h5lx_Ybs49JASMrcjH8-PjkN3166nxu4guwvRIJpN4Y&co=0b4975&ct=cdd4d9&cmo=3acc3a&cmn=ff5353'></script>
+<dl><a href='https://clustrmaps.com/site/1c1oq'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=0e1633&w=a&t=n&d=h5lx_Ybs49JASMrcjH8-PjkN3166nxu4guwvRIJpN4Y&co=0b4975&ct=cdd4d9'/></a></dl>
