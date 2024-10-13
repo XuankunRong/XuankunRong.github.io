@@ -29,6 +29,8 @@ My research focuses on **Federated Learning, Continual Learning and Mutimodal La
 
 # 📝 Publications
 
+<sup>&dagger;</sup> : equal contribution (names listed in no particular order), <sup>*</sup> : corresponding author
+
 ## ⌛️ In Submission & Preprint
 
   - [**Client As Navigator: Emphasizing the Role of Clients in Federated Continual Learning**]()
