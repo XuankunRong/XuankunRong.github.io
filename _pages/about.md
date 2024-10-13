@@ -31,8 +31,6 @@ My research focuses on **Federated Learning, Continual Learning and Mutimodal La
 </ul>
 </div>
 
-<br/>
-
 # 📝 Publications
 
 <sup>&dagger;</sup> : equal contribution (names listed in no particular order), <sup>*</sup> : corresponding author
