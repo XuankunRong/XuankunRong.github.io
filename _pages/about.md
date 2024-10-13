@@ -31,9 +31,9 @@ My research focuses on **Federated Learning, Continual Learning and Mutimodal La
 
 ## ⌛️ In Submission & Preprint
 
-- [**Client As Navigator: Emphasizing the Role of Clients in Federated Continual Learning**]()
-
-**Xuankun Rong**<sup>&dagger;</sup>, Jianshu Zhang<sup>&dagger;</sup>, Kun He, Mang Ye<sup>*</sup> 
+  - [**Client As Navigator: Emphasizing the Role of Clients in Federated Continual Learning**]()
+  
+    **Xuankun Rong**<sup>&dagger;</sup>, Jianshu Zhang<sup>&dagger;</sup>, Kun He, Mang Ye<sup>*</sup> 
 
 [[arXiv]()] [[code]()]
 
