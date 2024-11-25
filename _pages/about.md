@@ -39,10 +39,9 @@ My research focuses on **Federated Learning, Continual Learning and Mutimodal La
 
 <dl>
   <dt><img align="left" width="400" src="../images/paper/can.png" alt="Client As Navigator"></dt>
-  <dd><a href="" class="publication-title">CAN: Injecting More "Federation" into Federated Continual Learning by Positioning Clients as Navigators</a></dd>
+  <dd><a href="" class="publication-title">Clients As Navigators: Towards Native Federated Continual Learning</a></dd>
   <dd><strong>Xuankun Rong&dagger;</strong>, Jianshu Zhang&dagger;, Kun He, Mang Ye*</dd>
   <dd>Under Review</dd>
-  <dd><a href="#">[arXiv]</a> <a href="#">[code]</a></dd>
 </dl>
 
 <br>
