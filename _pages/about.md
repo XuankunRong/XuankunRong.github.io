@@ -90,11 +90,14 @@ My research focuses on **Federated Learning, Continual Learning and Mutimodal La
 
 ## ⌛️ In Submission & Preprint
 
+<hr>
+
 <dl>
   <dt><img align="left" width="400" src="../images/paper/LVLM_Safety_Suvey.png" alt="LVLM_Safety_Survey"></dt>
   <dd><a href="" class="publication-title">A Survey of Safety on Large Vision-Language Models: Attacks, Defenses and Evaluations</a></dd>
   <dd>Mang Ye*, <strong>Xuankun Rong</strong>, Wenke Huang, Bo Du, Nenghai Yu, Dacheng Tao</dd>
   <dd>Under Review</dd>
+  <dd><a href="https://github.com/XuankunRong/Awesome-LVLM-Safety">[Project Page]</a></dd>
 </dl>
 
 <hr>
