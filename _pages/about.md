@@ -38,15 +38,22 @@ My research focuses on **Federated Learning, Continual Learning and Mutimodal La
 ## ⌛️ In Submission & Preprint
 
 <dl>
+  <dt><img align="left" width="400" src="../images/paper/LVLM_Safety_Suvey.png" alt="LVLM_Safety_Survey"></dt>
+  <dd><a href="" class="publication-title">A Survey of Safety on Large Vision-Language Models: Attacks, Defenses and Evaluations</a></dd>
+  <dd>Mang Ye, <strong>Xuankun Rong</strong>, Wenke Huang, Bo Du, Nenghai Yu, Dacheng Tao</dd>
+  <dd>Under Review</dd>
+</dl>
+
+<dl>
   <dt><img align="left" width="400" src="../images/paper/can.png" alt="Client As Navigator"></dt>
-  <dd><a href="" class="publication-title">Clients As Navigators: Towards Native Federated Continual Learning</a></dd>
+  <dd><a href="" class="publication-title">CAN: Leveraging Clients As Navigators for Generative Replay in Federated Continual Learning</a></dd>
   <dd><strong>Xuankun Rong&dagger;</strong>, Jianshu Zhang&dagger;, Kun He, Mang Ye*</dd>
   <dd>Under Review</dd>
 </dl>
 
-<br>
+<br/>
 
-<br>
+<br/>
 
 # 🎖 Honors and Awards
 
