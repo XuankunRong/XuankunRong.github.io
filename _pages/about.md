@@ -43,10 +43,7 @@ My research focuses on **Federated Learning, Continual Learning and Mutimodal La
   <dd>Mang Ye*, <strong>Xuankun Rong</strong>, Wenke Huang, Bo Du, Nenghai Yu, Dacheng Tao</dd>
   <dd>Under Review</dd>
 </dl>
-
-<br/>
-<br/>
-
+<hr>
 <dl>
   <dt><img align="left" width="400" src="../images/paper/can.png" alt="Client As Navigator"></dt>
   <dd><a href="" class="publication-title">CAN: Leveraging Clients As Navigators for Generative Replay in Federated Continual Learning</a></dd>
