@@ -7,12 +7,53 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<style>
+  dl {
+    margin-top: 1px;
+    margin-bottom: 5px; /* 调整这个值以获得合适的间距 */
+    clear: both;
+  }
+
+  img {
+    display: block;
+    margin: 0px 10px 10px 0px; /* 图片居中 上右下左*/ 
+    max-width: 100%; /* 限制图片最大宽度 */
+  }
+
+  hr {
+    border: 1px solid #ebebeb; /* 调整分隔线的颜色和样式 */
+    /* margin: 10px;  */
+    clear: both; 
+  }
+
+
+  dl dd {
+  color: #; 
+  margin-top: 1px; 
+  margin-bottom: 1px;
+}
+
+  dl dd strong {
+  font-weight: bold;
+  }
+
+
+  .publication-title {
+    font-weight: bold;
+  }
+
+</style>
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
+<span class='anchor' id='about-me'></span>
+
 
 # 🧐 About Me
 
@@ -43,17 +84,16 @@ My research focuses on **Federated Learning, Continual Learning and Mutimodal La
   <dd>Mang Ye*, <strong>Xuankun Rong</strong>, Wenke Huang, Bo Du, Nenghai Yu, Dacheng Tao</dd>
   <dd>Under Review</dd>
 </dl>
+
 <hr>
+
 <dl>
   <dt><img align="left" width="400" src="../images/paper/can.png" alt="Client As Navigator"></dt>
   <dd><a href="" class="publication-title">CAN: Leveraging Clients As Navigators for Generative Replay in Federated Continual Learning</a></dd>
   <dd><strong>Xuankun Rong&dagger;</strong>, Jianshu Zhang&dagger;, Kun He, Mang Ye*</dd>
   <dd>Under Review</dd>
 </dl>
-
-<br/>
-
-<br/>
+<hr>
 
 # 🎖 Honors and Awards
 
