@@ -44,7 +44,8 @@ My research focuses on **Federated Learning, Continual Learning and Mutimodal La
   <dd>Under Review</dd>
 </dl>
 
-<hr>
+<br/>
+
 
 <dl>
   <dt><img align="left" width="400" src="../images/paper/can.png" alt="Client As Navigator"></dt>
