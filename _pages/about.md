@@ -43,6 +43,18 @@ redirect_from:
     font-weight: bold;
   }
 
+  .image-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px; /* 控制图片间距 */
+    margin: 20px 0;
+  }
+
+  .image-container img {
+    max-width: 150px; /* 控制最大宽度 */
+    height: auto;
+    margin: 0; /* 移除原来的 margin */
+  }
 </style>
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -111,6 +123,10 @@ My research focuses on **Federated Learning, Continual Learning and Mutimodal La
 - I am an avid music and band enthusiast. I enjoy exploring various musical styles, with a particular love for shoegaze, city pop, and blues. Music is an integral part of my life that fuels my creativity and inspires my work.
 - My girlfriend and I have two adorable cats named Fatbo (肥波) and Summer. They are both funny and have brought a lot of fun to our lives!
 
-<img src="../images/feibo.png" alt="feibo" style="zoom: 8.17%;" /><img src="../images/summer.png" alt="summer" style="zoom: 10%;" /><img src="../images/both.png" alt="both" style="zoom: 7.3%;" />
+<div class="image-container">
+  <img src="../images/feibo.png" alt="feibo">
+  <img src="../images/summer.png" alt="summer">
+  <img src="../images/both.png" alt="both">
+</div>
 
-<dl><a href='https://clustrmaps.com/site/1c1oq'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=249&t=n&d=h5lx_Ybs49JASMrcjH8-PjkN3166nxu4guwvRIJpN4Y'/></a></dl>
+<!-- <dl><a href='https://clustrmaps.com/site/1c1oq'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=249&t=n&d=h5lx_Ybs49JASMrcjH8-PjkN3166nxu4guwvRIJpN4Y'/></a></dl> -->
