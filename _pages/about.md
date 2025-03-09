@@ -94,7 +94,7 @@ My research focuses on **Federated Learning, Continual Learning and Mutimodal La
 
 <dl>
   <dt><img align="left" width="400" src="../images/paper/LVLM_Safety_Suvey.png" alt="LVLM_Safety_Survey"></dt>
-  <dd><a href="" class="publication-title">A Survey of Safety on Large Vision-Language Models: Attacks, Defenses and Evaluations</a></dd>
+  <dd><a href="https://arxiv.org/abs/2502.14881" class="publication-title">A Survey of Safety on Large Vision-Language Models: Attacks, Defenses and Evaluations</a></dd>
   <dd>Mang Ye*, <strong>Xuankun Rong</strong>, Wenke Huang, Bo Du, Nenghai Yu, Dacheng Tao</dd>
   <dd>Under Review</dd>
   <dd><a href="https://github.com/XuankunRong/Awesome-LVLM-Safety">[Project Page]</a></dd>
@@ -107,6 +107,26 @@ My research focuses on **Federated Learning, Continual Learning and Mutimodal La
   <dd><a href="" class="publication-title">CAN: Leveraging Clients As Navigators for Generative Replay in Federated Continual Learning</a></dd>
   <dd><strong>Xuankun Rong&dagger;</strong>, Jianshu Zhang&dagger;, Kun He, Mang Ye*</dd>
   <dd>Under Review</dd>
+</dl>
+
+<hr>
+
+<dl>
+  <dt><img align="left" width="400" src="../images/paper/MLLM_Finetune_Survey.png" alt="MLLM_Finetune_Survey"></dt>
+  <dd><a href="https://arxiv.org/abs/2503.04543" class="publication-title">Keeping Yourself is Important in Downstream Tuning Multimodal Large Language Model</a></dd>
+  <dd>Wenke Huang, Jian Liang, Xianda Guo, Yiyang Fang, Guancheng Wan, <strong>Xuankun Rong</strong>, Chi Wen, Zekun Shi, Qingyun Li, Didi Zhu, Yanbiao Ma, Ke Liang, Bin Yang, He Li, Jiawei Shao, Mang Ye*, Bo Du*</dd>
+  <dd>Under Review</dd>
+  <dd><a href="https://github.com/WenkeHuang/Awesome-MLLM-Tuning">[Project Page]</a></dd>
+</dl>
+
+<hr>
+
+<dl>
+  <dt><img align="left" width="400" src="../images/paper/Multiverse.png" alt="Multiverse.png"></dt>
+  <dd><a href="" class="publication-title">MULTIVERSE: A Multi-Turn Conversation Benchmark for Evaluating Large Vision and Language Models</a></dd>
+<!--   <dd>Wenke Huang, Jian Liang, Xianda Guo, Yiyang Fang, Guancheng Wan, <strong>Xuankun Rong</strong>, Chi Wen, Zekun Shi, Qingyun Li, Didi Zhu, Yanbiao Ma, Ke Liang, Bin Yang, He Li, Jiawei Shao, Mang Ye*, Bo Du*</dd> -->
+  <dd>Under Review</dd>
+<!--   <dd><a href="https://github.com/WenkeHuang/Awesome-MLLM-Tuning">[Project Page]</a></dd> -->
 </dl>
 <hr>
 
