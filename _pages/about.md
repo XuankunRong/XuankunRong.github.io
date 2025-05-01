@@ -88,6 +88,15 @@ My research focuses on **Federated Learning, Continual Learning and Multimodal L
 
 &dagger;: equal contribution (names listed in no particular order), * : corresponding author
 
+<hr>
+
+<dl>
+  <dt><img align="left" width="400" src="../images/paper/can.png" alt="Client As Navigator"></dt>
+  <dd><a href="" class="publication-title">CAN: Leveraging Clients As Navigators for Generative Replay in Federated Continual Learning</a></dd>
+  <dd><strong>Xuankun Rong&dagger;</strong>, Jianshu Zhang&dagger;, Kun He, Mang Ye*</dd>
+  <dd>International Conference on Machine Learning (ICML), 2025</dd>
+</dl>
+
 ## ⌛️ In Submission & Preprint
 
 <hr>
@@ -98,15 +107,6 @@ My research focuses on **Federated Learning, Continual Learning and Multimodal L
   <dd>Mang Ye*, <strong>Xuankun Rong</strong>, Wenke Huang, Bo Du, Nenghai Yu, Dacheng Tao</dd>
   <dd>Under Review</dd>
   <dd><a href="https://github.com/XuankunRong/Awesome-LVLM-Safety">[Project Page]</a></dd>
-</dl>
-
-<hr>
-
-<dl>
-  <dt><img align="left" width="400" src="../images/paper/can.png" alt="Client As Navigator"></dt>
-  <dd><a href="" class="publication-title">CAN: Leveraging Clients As Navigators for Generative Replay in Federated Continual Learning</a></dd>
-  <dd><strong>Xuankun Rong&dagger;</strong>, Jianshu Zhang&dagger;, Kun He, Mang Ye*</dd>
-  <dd>Under Review</dd>
 </dl>
 
 <hr>
