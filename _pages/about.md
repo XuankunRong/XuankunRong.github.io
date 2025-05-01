@@ -77,7 +77,7 @@ My research focuses on **AI Security**.
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
-  <li><em>2025.05:</em> One paper (CAN) has been accepeted by **ICML 2025**.</li>
+  <li><em>2025.05:</em> One paper (CAN) has been accepeted by <strong>ICML 2025</strong>.</li>
   <li><em>2024.09:</em> Won <strong>Nomination Award</strong> of College Students' Innovation and Entrepreneurship works in 2024 China Network Security Innovation and Entrepreneurship Competition.</li>
   <li><em>2024.08:</em> Won <strong>First Prize</strong> in the 17th National College Student Information Security Contest, along with the <strong>Most Innovative and Entrepreneurial Award</strong> (Top 0.1% nation-wide). 👏</li>
   <li><em>2024.07:</em> We advanced to the <strong>National Finals</strong> of the 17th National College Student Information Security Contest and are looking forward to achieving excellent results. 💪</li>
