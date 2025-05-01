@@ -71,12 +71,13 @@ redirect_from:
 
 👋 Hi there! My name is Xuankun Rong（容旋坤）, I'm currently a senior undergraduate student at the [School of Cyber Science and Engineering](https://cse.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/). I will begin my Ph.D. studies at [School of Computer Science](https://cs.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/) in 2025, advised by Prof. [Mang Ye](https://marswhu.github.io/). If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail or [Wechat](https://pic1.imgdb.cn/item/67b312dbd0e0a243d4004126.jpg).
 
-My research focuses on **Federated Learning, Continual Learning and Multimodal Large Language Models**.
+My research focuses on **AI Security**.
 
 # 🔥 News
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
+  <li><em>2025.05:</em> One paper (CAN) has been accepeted by ICML 2025.</li>
   <li><em>2024.09:</em> Won <strong>Nomination Award</strong> of College Students' Innovation and Entrepreneurship works in 2024 China Network Security Innovation and Entrepreneurship Competition.</li>
   <li><em>2024.08:</em> Won <strong>First Prize</strong> in the 17th National College Student Information Security Contest, along with the <strong>Most Innovative and Entrepreneurial Award</strong> (Top 0.1% nation-wide). 👏</li>
   <li><em>2024.07:</em> We advanced to the <strong>National Finals</strong> of the 17th National College Student Information Security Contest and are looking forward to achieving excellent results. 💪</li>
