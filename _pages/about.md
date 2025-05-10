@@ -87,7 +87,7 @@ My research focuses on **AI Security**.
 
 # 📝 Publications
 
-&dagger;: equal contribution (names listed in no particular order), * : corresponding author
+&dagger;: equal contribution, * : corresponding author
 
 <hr>
 
@@ -95,7 +95,7 @@ My research focuses on **AI Security**.
   <dt><img align="left" width="400" src="../images/paper/can.png" alt="Client As Navigator"></dt>
   <dd><a href="" class="publication-title">CAN: Leveraging Clients As Navigators for Generative Replay in Federated Continual Learning</a></dd>
   <dd><strong>Xuankun Rong&dagger;</strong>, Jianshu Zhang&dagger;, Kun He, Mang Ye*</dd>
-  <dd>International Conference on Machine Learning (ICML), 2025</dd>
+  <dd>International Conference on Machine Learning <strong>(ICML)</strong>, 2025</dd>
 </dl>
 
 <hr>
@@ -112,14 +112,15 @@ My research focuses on **AI Security**.
   <dd><a href="https://github.com/XuankunRong/Awesome-LVLM-Safety">[Project Page]</a></dd>
 </dl>
 
+<hr>
 
-
-
-<!--   <dt><img align="left" width="400" src="../images/paper/edl.png" alt="EDL"></dt> -->
-<!--   <dd><a href="" class="publication-title">Eyes Don’t Lie: Towards Attention Entropy-Driven Backdoor Cleaning in Tuning MLLMs</a></dd> -->
-<!--   <dd><strong>Xuankun Rong&dagger;</strong>, Wenke Huang&dagger;, Jian Liang, Jinhe Bi, Yiming Li, Mang Ye*</dd> -->
-<!--   <dd>Under Review</dd> -->
+<dl>
+  <dt><img align="left" width="400" src="../images/paper/edl.png" alt="EDL"></dt>
+  <dd><a href="" class="publication-title">Eyes Don’t Lie: Towards Attention Entropy-Driven Backdoor Cleaning in Tuning MLLMs</a></dd>
+  <dd><strong>Xuankun Rong&dagger;</strong>, Wenke Huang&dagger;, Jian Liang, Jinhe Bi, Yiming Li, Bo Du, Mang Ye*</dd>
+  <dd>Under Review</dd>
 <!--   <dd><a href="https://github.com/XuankunRong/Awesome-LVLM-Safety">[Project Page]</a></dd> -->
+</dl>
 
 
 <hr>
