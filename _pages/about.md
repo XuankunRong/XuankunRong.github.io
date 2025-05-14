@@ -116,8 +116,8 @@ My research focuses on **AI Security**.
 
 <dl>
   <dt><img align="left" width="400" src="../images/paper/edl.png" alt="EDL"></dt>
-  <dd><a href="" class="publication-title">Eyes Don’t Lie: Towards Attention Entropy-Driven Backdoor Cleaning in Tuning MLLMs</a></dd>
-  <dd><strong>Xuankun Rong&dagger;</strong>, Wenke Huang&dagger;, Jian Liang, Jinhe Bi, Yiming Li, Bo Du, Mang Ye*</dd>
+  <dd><a href="" class="publication-title">Backdoor Cleaning without External Guidance in MLLM Fine-tuning</a></dd>
+  <dd><strong>Xuankun Rong&dagger;</strong>, Wenke Huang&dagger;, Jian Liang, Jinhe Bi, Xun Xiao, Yiming Li, Bo Du, Mang Ye*</dd>
   <dd>Under Review</dd>
 <!--   <dd><a href="https://github.com/XuankunRong/Awesome-LVLM-Safety">[Project Page]</a></dd> -->
 </dl>
