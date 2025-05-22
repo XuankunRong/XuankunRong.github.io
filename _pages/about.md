@@ -125,24 +125,7 @@ My research focuses on **AI Security**.
 
 <hr>
 
-<dl>
-  <dt><img align="left" width="400" src="../images/paper/MLLM_Finetune_Survey.png" alt="MLLM_Finetune_Survey"></dt>
-  <dd><a href="https://arxiv.org/abs/2503.04543" class="publication-title">Keeping Yourself is Important in Downstream Tuning Multimodal Large Language Model</a></dd>
-  <dd>Wenke Huang, Jian Liang, Xianda Guo, Yiyang Fang, Guancheng Wan, <strong>Xuankun Rong</strong>, Chi Wen, Zekun Shi, Qingyun Li, Didi Zhu, Yanbiao Ma, Ke Liang, Bin Yang, He Li, Jiawei Shao, Mang Ye*, Bo Du*</dd>
-  <dd>Under Review</dd>
-  <dd><a href="https://github.com/WenkeHuang/Awesome-MLLM-Tuning">[Project Page]</a></dd>
-</dl>
 
-<hr>
-
-<dl>
-  <dt><img align="left" width="400" src="../images/paper/Multiverse.png" alt="Multiverse.png"></dt>
-  <dd><a href="" class="publication-title">MULTIVERSE: A Multi-Turn Conversation Benchmark for Evaluating Large Vision and Language Models</a></dd>
-<!--   <dd>Wenke Huang, Jian Liang, Xianda Guo, Yiyang Fang, Guancheng Wan, <strong>Xuankun Rong</strong>, Chi Wen, Zekun Shi, Qingyun Li, Didi Zhu, Yanbiao Ma, Ke Liang, Bin Yang, He Li, Jiawei Shao, Mang Ye*, Bo Du*</dd> -->
-  <dd>Under Review</dd>
-<!--   <dd><a href="https://github.com/WenkeHuang/Awesome-MLLM-Tuning">[Project Page]</a></dd> -->
-</dl>
-<hr>
 
 # 🎖 Honors and Awards
 
