@@ -92,7 +92,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 &dagger;: equal contribution
 
-* : corresponding author
+\* : corresponding author
 
 <hr>
 
