@@ -69,15 +69,18 @@ redirect_from:
 
 # 🧐 About Me
 
-👋 Hi there! My name is Xuankun Rong（容旋坤）, I'm currently a senior undergraduate student at the [School of Cyber Science and Engineering](https://cse.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/). I will begin my Ph.D. studies at [School of Computer Science](https://cs.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/) in 2025, advised by Prof. [Mang Ye](https://marswhu.github.io/). If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail or [Wechat](https://pic1.imgdb.cn/item/67b312dbd0e0a243d4004126.jpg).
+👋 Hi there! My name is Xuankun Rong（容旋坤）, I'm currently a senior undergraduate student at the [School of Cyber Science and Engineering](https://cse.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/). I will begin my Ph.D. studies at [School of Computer Science](https://cs.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/) in 2025, advised by Prof. [Mang Ye](https://marswhu.github.io/).
 
-My research focuses on **AI Security**.
+My research focuses on **AI Safety**.
+
+If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail or [Wechat](https://pic1.imgdb.cn/item/67b312dbd0e0a243d4004126.jpg).
 
 # 🔥 News
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
-  <li><em>2025.05:</em> One paper (CAN) has been accepeted by <strong>ICML 2025</strong>.</li>
+  <li><em>2025.06:</em> Released our new work <strong>BYE</strong> on backdoor defense for MLLMs on arxiv — welcome to follow and share! ❤️</li>
+  <li><em>2025.05:</em> One paper (CAN) has been accepeted by <strong>ICML 2025</strong>. 💪</li>
   <li><em>2024.09:</em> Won <strong>Nomination Award</strong> of College Students' Innovation and Entrepreneurship works in 2024 China Network Security Innovation and Entrepreneurship Competition.</li>
   <li><em>2024.08:</em> Won <strong>First Prize</strong> in the 17th National College Student Information Security Contest, along with the <strong>Most Innovative and Entrepreneurial Award</strong> (Top 0.1% nation-wide). 👏</li>
   <li><em>2024.07:</em> We advanced to the <strong>National Finals</strong> of the 17th National College Student Information Security Contest and are looking forward to achieving excellent results. 💪</li>
@@ -87,7 +90,9 @@ My research focuses on **AI Security**.
 
 # 📝 Publications
 
-&dagger;: equal contribution, * : corresponding author
+&dagger;: equal contribution
+
+* : corresponding author
 
 <hr>
 
@@ -108,7 +113,6 @@ My research focuses on **AI Security**.
   <dt><img align="left" width="400" src="../images/paper/LVLM_Safety_Suvey.png" alt="LVLM_Safety_Survey"></dt>
   <dd><a href="https://arxiv.org/abs/2502.14881" class="publication-title">A Survey of Safety on Large Vision-Language Models: Attacks, Defenses and Evaluations</a></dd>
   <dd>Mang Ye*, <strong>Xuankun Rong</strong>, Wenke Huang, Bo Du, Nenghai Yu, Dacheng Tao</dd>
-  <dd>Under Review</dd>
   <dd><a href="https://github.com/XuankunRong/Awesome-LVLM-Safety">[Project Page]</a></dd>
 </dl>
 
@@ -118,14 +122,10 @@ My research focuses on **AI Security**.
   <dt><img align="left" width="400" src="../images/paper/edl.png" alt="EDL"></dt>
   <dd><a href="https://arxiv.org/abs/2505.16916" class="publication-title">Backdoor Cleaning without External Guidance in MLLM Fine-tuning</a></dd>
   <dd><strong>Xuankun Rong&dagger;</strong>, Wenke Huang&dagger;, Jian Liang, Jinhe Bi, Xun Xiao, Yiming Li, Bo Du, Mang Ye*</dd>
-  <dd>Under Review</dd>
-<!--   <dd><a href="https://github.com/XuankunRong/Awesome-LVLM-Safety">[Project Page]</a></dd> -->
+  <dd><a href="https://github.com/XuankunRong/BYE">[Project Page]</a></dd>
 </dl>
 
-
 <hr>
-
-
 
 # 🎖 Honors and Awards
 
