@@ -69,7 +69,7 @@ redirect_from:
 
 # 🧐 About Me
 
-👋 Hi there! My name is Xuankun Rong（容旋坤）, I'm currently a senior undergraduate student at the [School of Cyber Science and Engineering](https://cse.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/). I will begin my Ph.D. studies at [School of Computer Science](https://cs.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/) in 2025, advised by Prof. [Mang Ye](https://marswhu.github.io/).
+👋 Hi there! My name is Xuankun Rong（容旋坤）, I am currently a first-year Ph.D. student at the [School of Computer Science](https://cs.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/), where I am fortunate to be advised by Prof. [Mang Ye](https://marswhu.github.io/). I received my Bachelor's degree at the [School of Cyber Science and Engineering](https://cse.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/).
 
 My research focuses on **AI Safety**.
 
@@ -79,7 +79,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
-  <li><em>2025.06:</em> Released our new work <strong>BYE</strong> on backdoor defense for MLLMs on arxiv — welcome to follow and share! ❤️</li>
+  <li><em>2025.05:</em> Released our new work <strong>BYE</strong> on backdoor defense for MLLMs on arxiv — welcome to follow and share! ❤️</li>
   <li><em>2025.05:</em> One paper (CAN) has been accepeted by <strong>ICML 2025</strong>. 💪</li>
   <li><em>2024.09:</em> Won <strong>Nomination Award</strong> of College Students' Innovation and Entrepreneurship works in 2024 China Network Security Innovation and Entrepreneurship Competition.</li>
   <li><em>2024.08:</em> Won <strong>First Prize</strong> in the 17th National College Student Information Security Contest, along with the <strong>Most Innovative and Entrepreneurial Award</strong> (Top 0.1% nation-wide). 👏</li>
@@ -135,7 +135,8 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 # 📖 Educations
 
-- *2021.09 - now*, Undergraduate, [School of Cyber Science and Engineering](https://cse.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/), China.
+- *2025.09 - present*, Ph.D. Student, [School of Computer Science](https://cs.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/), China.  
+- *2021.09 - 2025.06*, B.E, [School of Cyber Science and Engineering](https://cse.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/), China.
 - *2018.09 - 2021.07*, Senior Middle School, [HuBei Wuchang Experimental High School](http://www.ssyzx.net/), China.
 
 # 👏 Miscellaneous
