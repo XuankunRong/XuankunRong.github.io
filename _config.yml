@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xuankun Rong's Homepage"
-description              : "Undergraduate student at Wuhan University"
+description              : "rongxuankun [at] whu.edu.cn"
 repository               : "XuankunRong/XuankunRong.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xuankun Rong"
   avatar           : "images/avatar.png"
-  bio              : "rongxuankun [at] whu.edu.cn"
+  bio              : "Ph.D. student at Wuhan University"
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
