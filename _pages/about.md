@@ -90,9 +90,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 # 📝 Publications
 
-&dagger;: equal contribution
-
-\* : corresponding author
+&dagger;: equal contribution  *: corresponding author
 
 <hr>
 
