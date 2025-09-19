@@ -138,15 +138,4 @@ If you are interested in collaborating with me or want to have a chat, always fe
 - *2021.09 - 2025.06*, B.E, [School of Cyber Science and Engineering](https://cse.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/), China.
 - *2018.09 - 2021.07*, Senior Middle School, [HuBei Wuchang Experimental High School](http://www.ssyzx.net/), China.
 
-# 👏 Miscellaneous
-
-- I am an avid music and band enthusiast. I enjoy exploring various musical styles, with a particular love for shoegaze, city pop, and blues. Music is an integral part of my life that fuels my creativity and inspires my work.
-- My girlfriend and I have two adorable cats named Fatbo (肥波) and Summer. They are both funny and have brought a lot of fun to our lives!
-
-<div class="image-container">
-  <img src="../images/feibo.png" alt="feibo">
-  <img src="../images/summer.png" alt="summer">
-  <img src="../images/both.png" alt="both">
-</div>
-
 <dl><a href='https://clustrmaps.com/site/1c1oq'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=249&t=n&d=h5lx_Ybs49JASMrcjH8-PjkN3166nxu4guwvRIJpN4Y'/></a></dl>
