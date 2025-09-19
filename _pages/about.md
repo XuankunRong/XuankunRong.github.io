@@ -79,6 +79,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
+  <li><em>2025.09:</em> One paper (BYE) has been accepeted by <strong>NeurIPS 2025</strong>. See you in San Diego! 💪</li>
   <li><em>2025.05:</em> Released our new work <strong>BYE</strong> on backdoor defense for MLLMs on arxiv — welcome to follow and share! ❤️</li>
   <li><em>2025.05:</em> One paper (CAN) has been accepeted by <strong>ICML 2025</strong>. 💪</li>
   <li><em>2024.09:</em> Won <strong>Nomination Award</strong> of College Students' Innovation and Entrepreneurship works in 2024 China Network Security Innovation and Entrepreneurship Competition.</li>
@@ -95,10 +96,19 @@ If you are interested in collaborating with me or want to have a chat, always fe
 <hr>
 
 <dl>
+  <dt><img align="left" width="400" src="../images/paper/edl.png" alt="EDL"></dt>
+  <dd><a href="https://arxiv.org/abs/2505.16916" class="publication-title">Backdoor Cleaning without External Guidance in MLLM Fine-tuning</a></dd>
+  <dd><strong>Xuankun Rong&dagger;</strong>, Wenke Huang&dagger;, Jian Liang, Jinhe Bi, Xun Xiao, Yiming Li, Bo Du, Mang Ye*</dd>
+  <dd><strong>NeurIPS</strong>, 2025</dd>
+</dl>
+
+<hr>
+
+<dl>
   <dt><img align="left" width="400" src="../images/paper/can.png" alt="Client As Navigator"></dt>
   <dd><a href="" class="publication-title">CAN: Leveraging Clients As Navigators for Generative Replay in Federated Continual Learning</a></dd>
   <dd><strong>Xuankun Rong&dagger;</strong>, Jianshu Zhang&dagger;, Kun He, Mang Ye*</dd>
-  <dd>International Conference on Machine Learning <strong>(ICML)</strong>, 2025</dd>
+  <dd><strong>ICML</strong>, 2025</dd>
 </dl>
 
 <hr>
@@ -112,15 +122,6 @@ If you are interested in collaborating with me or want to have a chat, always fe
   <dd><a href="https://arxiv.org/abs/2502.14881" class="publication-title">A Survey of Safety on Large Vision-Language Models: Attacks, Defenses and Evaluations</a></dd>
   <dd>Mang Ye*, <strong>Xuankun Rong</strong>, Wenke Huang, Bo Du, Nenghai Yu, Dacheng Tao</dd>
   <dd><a href="https://github.com/XuankunRong/Awesome-LVLM-Safety">[Project Page]</a></dd>
-</dl>
-
-<hr>
-
-<dl>
-  <dt><img align="left" width="400" src="../images/paper/edl.png" alt="EDL"></dt>
-  <dd><a href="https://arxiv.org/abs/2505.16916" class="publication-title">Backdoor Cleaning without External Guidance in MLLM Fine-tuning</a></dd>
-  <dd><strong>Xuankun Rong&dagger;</strong>, Wenke Huang&dagger;, Jian Liang, Jinhe Bi, Xun Xiao, Yiming Li, Bo Du, Mang Ye*</dd>
-  <dd><a href="https://github.com/XuankunRong/BYE">[Project Page]</a></dd>
 </dl>
 
 <hr>
