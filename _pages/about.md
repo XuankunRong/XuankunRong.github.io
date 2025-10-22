@@ -73,8 +73,6 @@ redirect_from:
 
 My research focuses on **AI Safety**.
 
-If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail or [Wechat](https://pic1.imgdb.cn/item/67b312dbd0e0a243d4004126.jpg).
-
 # 🔥 News
 
 <div style="max-height: 200px; overflow-y: auto;">
