@@ -77,8 +77,9 @@ My research focuses on **AI Safety**.
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
+  <li><em>2025.11:</em> Two papers have been accepeted by <strong>AAAI 2026</strong> (One Oral). See you in Singapore! 🇸🇬</li>
   <li><em>2025.10:</em> I am invited as a reviewer for CVPR 2026. </li>
-  <li><em>2025.09:</em> One paper (BYE) has been accepeted by <strong>NeurIPS 2025</strong>. See you in San Diego! 💪</li>
+  <li><em>2025.09:</em> One paper (BYE) has been accepeted by <strong>NeurIPS 2025</strong>. See you in San Diego! 🇺🇸</li>
   <li><em>2025.05:</em> Released our new work <strong>BYE</strong> on backdoor defense for MLLMs on arxiv — welcome to follow and share! ❤️</li>
   <li><em>2025.05:</em> One paper (CAN) has been accepeted by <strong>ICML 2025</strong>. 💪</li>
   <li><em>2024.09:</em> Won <strong>Nomination Award</strong> of College Students' Innovation and Entrepreneurship works in 2024 China Network Security Innovation and Entrepreneurship Competition.</li>
