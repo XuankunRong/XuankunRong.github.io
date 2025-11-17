@@ -135,6 +135,14 @@ My research focuses on **AI Safety**.
 
 <hr>
 
+<dl>
+  <dt><img align="left" width="400" src="../images/paper/SafeGRPO.png" alt="SafeGRPO"></dt>
+  <dd><a href="" class="publication-title">SafeGRPO: Self-Rewarded Multimodal Safety Alignment via Rule-Governed Policy Optimization</a></dd>
+  <dd><strong>Xuankun Rong</strong>, Wenke Huang, Tingfeng Wang, Daiguo Zhou, Bo Du, Mang Ye</dd>
+</dl>
+
+<hr>
+
 # 🎖 Honors and Awards
 
 - *2024.09*: **Nominated Award** for college students' innovative and entrepreneurial works in 2024 China Cyber Security Innovation and Entrepreneurship Competition.
