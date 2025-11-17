@@ -105,8 +105,17 @@ My research focuses on **AI Safety**.
 <hr>
 
 <dl>
+  <dt><img align="left" width="400" src="../images/paper/tot.png" alt="ToT"></dt>
+  <dd><a href="" class="publication-title">Probing Semantic Insensitivity for Inference-Time Backdoor Defense in Multimodal Large Language Model</a></dd>
+  <dd><strong>Xuankun Rong</strong>, Wenke Huang, Wenzheng Jiang, Yiming Li, Wenxuan Wang, Mang Ye*</dd>
+  <dd><strong>AAAI</strong>, 2026</dd>
+</dl>
+
+<hr>
+
+<dl>
   <dt><img align="left" width="400" src="../images/paper/can.png" alt="Client As Navigator"></dt>
-  <dd><a href="" class="publication-title">CAN: Leveraging Clients As Navigators for Generative Replay in Federated Continual Learning</a></dd>
+  <dd><a href="https://openreview.net/pdf?id=lvkVhZ776k" class="publication-title">CAN: Leveraging Clients As Navigators for Generative Replay in Federated Continual Learning</a></dd>
   <dd><strong>Xuankun Rong&dagger;</strong>, Jianshu Zhang&dagger;, Kun He, Mang Ye*</dd>
   <dd><strong>ICML</strong>, 2025</dd>
 </dl>
