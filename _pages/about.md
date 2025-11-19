@@ -137,7 +137,7 @@ My research focuses on **AI Safety**.
 
 <dl>
   <dt><img align="left" width="400" src="../images/paper/SafeGRPO.png" alt="SafeGRPO"></dt>
-  <dd><a href="" class="publication-title">SafeGRPO: Self-Rewarded Multimodal Safety Alignment via Rule-Governed Policy Optimization</a></dd>
+  <dd><a href="https://arxiv.org/abs/2511.12982" class="publication-title">SafeGRPO: Self-Rewarded Multimodal Safety Alignment via Rule-Governed Policy Optimization</a></dd>
   <dd><strong>Xuankun Rong</strong>, Wenke Huang, Tingfeng Wang, Daiguo Zhou, Bo Du, Mang Ye</dd>
 </dl>
 
