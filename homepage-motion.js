@@ -81,3 +81,15 @@
     startTyping();
   });
 })();
+
+// Keep preview visits out of the public counter.
+// Provider integration: https://busuanzi.ibruce.info/
+(() => {
+  'use strict';
+  const value = document.querySelector('#busuanzi_value_site_pv');
+  if (!value || location.hostname !== 'xuankunrong.github.io') return;
+  const counter = document.createElement('script');
+  counter.src = 'https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js';
+  counter.async = true;
+  document.head.appendChild(counter);
+})();
