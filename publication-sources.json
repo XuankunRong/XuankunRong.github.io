@@ -1,0 +1,68 @@
+{
+  "checked": "2026-10-18",
+  "scholar": "https://scholar.google.com/citations?user=5hrRYs4AAAAJ&hl=zh-CN",
+  "count": 16,
+  "added": [
+    {
+      "id": "keeping",
+      "paper": "https://arxiv.org/abs/2503.04543",
+      "venue": "arXiv · Survey",
+      "year": 2025,
+      "authors": "Wenke Huang†, Jian Liang†, Xianda Guo†, Yiyang Fang†, Guancheng Wan†, Xuankun Rong, Chi Wen, Zekun Shi, Qingyun Li, Didi Zhu, Yanbiao Ma, Ke Liang, Bin Yang, He Li, Jiawei Shao, Mang Ye*, Bo Du*",
+      "source": "Latest paper PDF and arXiv metadata"
+    },
+    {
+      "id": "mapo",
+      "paper": "https://arxiv.org/abs/2509.18849",
+      "venue": "arXiv",
+      "year": 2025,
+      "authors": "Wenke Huang, Quan Zhang, Yiyang Fang, Jian Liang, Xuankun Rong, Huanjin Yao, Guancheng Wan, Ke Liang, Wenwen He, Mingjun Li, Leszek Rutkowski, Mang Ye*, Bo Du*, Dacheng Tao",
+      "source": "Latest paper PDF and arXiv metadata"
+    },
+    {
+      "id": "metarsi",
+      "paper": "https://arxiv.org/abs/2609.06396",
+      "venue": "arXiv",
+      "year": 2026,
+      "authors": "Zihan Tan†, Leixin Sun†, Zitong Shi, Yitao Liu, Jiajun Wu, Nathaniel Brooks, Jiaru Qian, Xiaoran Shang, Suyuan Huang, Yi Ding, Yangxu Liao, Mukai Li, Qiushi Sun, Shudong Liu, Xuankun Rong, Xiaohang Yu, Zhuo Chen, Hejia Geng, Chenxin Li, Aozhou Wang, Zengji Tu, Robert Tang, Yuxin Zhan, Eric Jiang, Yuxin Wu, Jianqing Zhang, Xiao Liang, Fang Wu, Haochi Zhang, Alexander Marlow, Guancheng Wan*",
+      "source": "Latest paper PDF and arXiv metadata"
+    },
+    {
+      "id": "reframe",
+      "paper": "https://arxiv.org/abs/2608.21100",
+      "venue": "Findings of EMNLP",
+      "year": 2026,
+      "authors": "Wenzheng Jiang, Xuankun Rong, Yuanzhao Zhai, Dawei Feng*, Huaimin Wang",
+      "source": "Latest paper PDF and arXiv metadata"
+    },
+    {
+      "id": "vulnerable",
+      "paper": "https://arxiv.org/abs/2607.23496",
+      "venue": "arXiv",
+      "year": 2026,
+      "authors": "Ziheng Peng†, Huiqi Deng†, Haoran Jin, Xuankun Rong, Jiahui Han, Yan Teng, Xiting Wang*, Na Zou*, Xia Hu",
+      "source": "Latest paper PDF and arXiv metadata"
+    },
+    {
+      "id": "risk",
+      "paper": "https://arxiv.org/abs/2607.10251",
+      "venue": "arXiv",
+      "year": 2026,
+      "authors": "Xuankun Rong, Wenke Huang, Bo Du, Dacheng Tao, Mang Ye",
+      "source": "Latest paper PDF and arXiv metadata"
+    },
+    {
+      "id": "governance",
+      "paper": "https://arxiv.org/abs/2508.08789",
+      "venue": "Science China Information Sciences",
+      "year": 2026,
+      "authors": "Yuchu Jiang, Jian Zhao, Yuchen Yuan, Tianle Zhang, Yao Huang, Yanghao Zhang, Jiaqi Liu, Haijun Song, Yan Wang, Yanshu Li, Xizhong Guo, Huilin Zhou, Yusheng Zhao, Jun Zhang, Zhi Zhang, Xiaojian Lin, Yixiu Zou, Haoxuan Ma, Yuhu Shang, Yuzhi Hu, Keshu Cai, Ruochen Zhang, Boyuan Chen, Yilan Gao, Ziheng Jiao, Yi Qin, Shuangjun Du, Tong Xiao, Zhekun Liu, Yu Chen, Xuankun Rong, Rui Wang, Yejie Zheng, Zhaoxin Fan, Murat Sensoy, Hongyuan Zhang, Pan Zhou, Lei Jin, Hao Zhao, Xu Yang, Jiaojiao Zhao, Jianshu Li, Joey Tianyi Zhou, Zhi-Qi Cheng, Longtao Huang, Zhiyi Liu, Zheng Zhu, Jianan Li, Gang Wang, Qi Li, Xu-Yao Zhang, Yaodong Yang, Mang Ye, Wenqi Ren, Zhaofeng He, Hang Su, Rongrong Ni, Liping Jing, Xingxing Wei, Junliang Xing, Massimo Alioto, Shengmei Shen, Petia Radeva, Dacheng Tao, Ya-Qin Zhang, Shuicheng Yan, Xuelong Li",
+      "source": "Latest paper PDF and arXiv metadata"
+    }
+  ],
+  "authorConfirmation": {
+    "paper": "reframe",
+    "venue": "Findings of EMNLP",
+    "year": 2026
+  }
+}
