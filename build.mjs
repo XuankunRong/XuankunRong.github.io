@@ -1,7 +1,7 @@
 import fs from 'node:fs';
 import vm from 'node:vm';
 const base=new URL('./',import.meta.url);
-const lastUpdated='2026-10-18';
+const lastUpdated='2026-10';
 const context={window:{}};
 vm.runInNewContext(fs.readFileSync(new URL('publications.js',base),'utf8'),context);
 const {PUBLICATIONS:papers,NEWS:news}=context.window;
