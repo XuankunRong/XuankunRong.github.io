@@ -116,6 +116,16 @@ window.PUBLICATIONS = [
     "paper": "https://openreview.net/pdf?id=lvkVhZ776k"
   },
   {
+    "id": "survey",
+    "year": 2025,
+    "venue": "arXiv · Survey",
+    "category": "safety",
+    "title": "A Survey of Safety on Large Vision-Language Models: Attacks, Defenses and Evaluations",
+    "authors": "Mang Ye*, Xuankun Rong, Wenke Huang, Bo Du, Nenghai Yu, Dacheng Tao",
+    "paper": "https://arxiv.org/abs/2502.14881",
+    "code": "https://github.com/XuankunRong/Awesome-LVLM-Safety"
+  },
+  {
     "id": "motion",
     "year": 2025,
     "venue": "NeurIPS",
@@ -153,22 +163,20 @@ window.PUBLICATIONS = [
     "authors": "Wenke Huang†, Jian Liang†, Xianda Guo†, Yiyang Fang†, Guancheng Wan†, Xuankun Rong, Chi Wen, Zekun Shi, Qingyun Li, Didi Zhu, Yanbiao Ma, Ke Liang, Bin Yang, He Li, Jiawei Shao, Mang Ye*, Bo Du*",
     "paper": "https://arxiv.org/abs/2503.04543",
     "authorsShort": "Wenke Huang†, Jian Liang†, Xianda Guo†, …, Xuankun Rong, …, Mang Ye*, Bo Du*"
-  },
-  {
-    "id": "survey",
-    "year": 2025,
-    "venue": "arXiv · Survey",
-    "category": "safety",
-    "title": "A Survey of Safety on Large Vision-Language Models: Attacks, Defenses and Evaluations",
-    "authors": "Mang Ye*, Xuankun Rong, Wenke Huang, Bo Du, Nenghai Yu, Dacheng Tao",
-    "paper": "https://arxiv.org/abs/2502.14881",
-    "code": "https://github.com/XuankunRong/Awesome-LVLM-Safety"
   }
 ];
 window.NEWS = [
   {
     "date": "2026.10",
+    "html": "Won <strong>National First Prize</strong> in the <a href=\"https://cpipc.acge.org.cn/cw/hp/2c9088a5696cbf370169a3f8101510bd\" target=\"_blank\" rel=\"noopener\">8th China Postgraduate AI Innovation Competition</a>."
+  },
+  {
+    "date": "2026.10",
     "html": "<a href=\"https://arxiv.org/abs/2608.21100\" target=\"_blank\" rel=\"noopener\">ReFrame</a> accepted to <strong>Findings of EMNLP 2026</strong>."
+  },
+  {
+    "date": "2026.07",
+    "html": "Invited to serve as a reviewer for <strong>AAAI</strong>."
   },
   {
     "date": "2026.04",
@@ -196,10 +204,6 @@ window.NEWS = [
   },
   {
     "date": "2025.05",
-    "html": "Released <strong>BYE</strong>, our work on backdoor defense for MLLMs."
-  },
-  {
-    "date": "2025.05",
     "html": "<strong>CAN</strong> accepted to <strong>ICML 2025</strong>."
   },
   {
@@ -209,13 +213,5 @@ window.NEWS = [
   {
     "date": "2024.08",
     "html": "Won <strong>National First Prize</strong> and the <strong>Most Innovative and Entrepreneurial Award</strong> in the 17th National College Student Information Security Contest."
-  },
-  {
-    "date": "2024.07",
-    "html": "Advanced to the <strong>National Finals</strong> of the 17th National College Student Information Security Contest."
-  },
-  {
-    "date": "2024.05",
-    "html": "Won <strong>First Prize</strong> in the China Undergraduate Computer Design Competition, Middle South Division."
   }
 ];
