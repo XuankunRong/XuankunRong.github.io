@@ -82,14 +82,35 @@
   });
 })();
 
-// Keep preview visits out of the public counter.
-// Provider integration: https://busuanzi.ibruce.info/
+// One image request records a view; local previews use Hits' non-counting preview.
+// Provider: https://github.com/silentsoft/hits
 (() => {
   'use strict';
-  const value = document.querySelector('#busuanzi_value_site_pv');
-  if (!value || location.hostname !== 'xuankunrong.github.io') return;
-  const counter = document.createElement('script');
-  counter.src = 'https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js';
-  counter.async = true;
-  document.head.appendChild(counter);
+  const line = document.querySelector('#page-views');
+  const counter = document.querySelector('#page-views-counter');
+  if (!line || !counter) return;
+  const isLive = location.hostname === 'xuankunrong.github.io';
+  const isPreview = ['localhost', '127.0.0.1', '[::1]'].includes(location.hostname);
+  if (!isLive && !isPreview) return;
+
+  let settled = false;
+  const finish = loaded => {
+    if (settled) return;
+    settled = true;
+    clearTimeout(timeout);
+    counter.onload = counter.onerror = null;
+    line.hidden = !loaded;
+    if (!loaded) counter.removeAttribute('src');
+  };
+  counter.onload = () => finish(true);
+  counter.onerror = () => finish(false);
+  counter.referrerPolicy = 'no-referrer';
+  if (isPreview) {
+    line.title = 'Local preview: example count only; no visit is recorded.';
+    counter.alt = 'Preview example: 1 view; not tracked';
+  }
+  const timeout = setTimeout(() => finish(false), 10000);
+  const url = new URL(`https://hits.sh/xuankunrong.github.io.${isLive ? 'svg' : 'preview'}`);
+  url.search = new URLSearchParams({label: ' ', style: 'flat-square', color: '000000', labelColor: '000000'});
+  counter.src = url.href;
 })();

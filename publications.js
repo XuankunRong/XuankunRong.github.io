@@ -176,7 +176,7 @@ window.NEWS = [
   },
   {
     "date": "2026.07",
-    "html": "Invited to serve as a reviewer for <strong>AAAI</strong>."
+    "html": "Invited to serve as a reviewer for <strong>AAAI 2027</strong>."
   },
   {
     "date": "2026.04",
